@@ -1,6 +1,6 @@
 {
-  "name": "hy-vue-temp",
-  "version": "0.1.0",
+  "name": "c-vue-template",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve --open",
