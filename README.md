@@ -1,9 +1,9 @@
 # c-vue-template
 
-contains features:
-dynamic router
-dynamic store
-axios
+- contains features:
+ - dynamic router
+ - dynamic store
+ - axios
 
 
 ## Project setup
