@@ -1,9 +1,10 @@
 # c-vue-template
 
+- version: 1.0.0
 - contains features:
- - dynamic router
- - dynamic store
- - axios
+  - dynamic router
+  - dynamic store
+  - axios
 
 
 ## Project setup
