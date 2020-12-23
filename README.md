@@ -1,5 +1,11 @@
 # c-vue-template
 
+contains features:
+dynamic router
+dynamic store
+axios
+
+
 ## Project setup
 ```
 npm install
